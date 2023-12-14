@@ -38,6 +38,4 @@ export async function loader () {
     }
   }
 
-  export async function loader ( ) {
-    
-  }
+
